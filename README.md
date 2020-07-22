@@ -8,7 +8,7 @@
 
 - 腾飞总则
   - [初中篇](chuzhong.md)
-  - [高中篇](gaohzong.md)
+  - [高中篇](gaozhong.md)
   - [大学篇](daxue.md)
   
   
